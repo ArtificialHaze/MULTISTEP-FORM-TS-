@@ -1,0 +1,7 @@
+.App {
+  display: flex;
+  text-align: center;
+  height: 100vh;
+  background: rgb(113, 31, 29);
+  background: linear-gradient(90deg, tomato, salmon);
+}
